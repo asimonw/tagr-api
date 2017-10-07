@@ -1,4 +1,4 @@
-# tagr-2
+# tagr-api
 
 > A Tagging App
 
@@ -14,7 +14,7 @@ Getting up and running is as easy as 1, 2, 3.
 2. Install your dependencies
 
     ```
-    cd path/to/tagr-2; npm install
+    cd path/to/tagr-api; npm install
     ```
 
 3. Start your app
